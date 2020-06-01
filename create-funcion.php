@@ -38,3 +38,5 @@ if(isset($_POST['enviar'])){
 </html>
 
 //morales davila bill
+
+//campos
