@@ -7,7 +7,7 @@
      <title>Document</title>
 </head>
 <body>
-     <H1>FORMULARIO CREATE 2</H1>
+     <H1>FORMULARIO CREATE 3</H1>
      <form action="#" method="post">
      <input type="text" name="codigo" placeholder="Ingrese codigo" require><br>
      <input type="text" name="nombres"placeholder="Ingrese nombres"><br>
